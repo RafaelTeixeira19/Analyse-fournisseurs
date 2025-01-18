@@ -15,4 +15,4 @@ Enfin, une analyse exploratoire a eu lieu. Celle-ci a étudiée les relations en
 ## Résultats
 ![download](https://github.com/user-attachments/assets/b06242dc-70d6-4883-936f-a58b5b44fb4b)
 
-Il peut être observé qu'il existe une certaine corrélation entre les prix d'achat, de vente et la marge. En effet ceci est parce que les mêmes fournisseurs sont présents dans les trois graphiques. 
+Il peut être observé qu'il existe une certaine corrélation entre les prix d'achat, de vente et la marge. En effet, ceci est parce que les mêmes fournisseurs sont présents dans les trois graphiques. 
